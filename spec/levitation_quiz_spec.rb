@@ -1,5 +1,4 @@
-require_relative "spec_helper"
-require_relative "../levitation_quiz.rb"
+
 
 def levitation_quiz
     loop do
